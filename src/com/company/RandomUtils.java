@@ -1,7 +1,6 @@
 package com.company;
 
 import org.apache.commons.lang.RandomStringUtils;
-
 /**
  * Author: Rinor Maloku
  * Date: 28.08.2016.
