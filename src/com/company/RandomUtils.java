@@ -14,4 +14,8 @@ public final class RandomUtils
     {
         return RandomStringUtils.randomAlphabetic(x);
     }
+
+    public static String randomPalidhje(final int x) {
+        return RandomStringUtils.random(x, new char[]{'a', 'b', 'c', 'd'});
+    }
 }
